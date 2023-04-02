@@ -3,4 +3,5 @@ Flask-Cors
 numpy
 pandas
 textblob
+scikit-learn
 gunicorn
