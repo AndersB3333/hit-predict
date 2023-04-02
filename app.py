@@ -1,7 +1,7 @@
+import pickle
 import numpy as np
 from flask_cors import CORS, cross_origin
-from flask import Flask, request, jsonify, json
-import pickle
+from flask import Flask, request, jsonify
 import pandas as pd
 from textblob import TextBlob
 
